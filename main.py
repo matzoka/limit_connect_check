@@ -1,6 +1,9 @@
 import pyautogui as pgui
 import time
 import platform
+
+
+# git pull test 1
 def beep(freq, dur=100):
     """
         ビープ音を鳴らす.
